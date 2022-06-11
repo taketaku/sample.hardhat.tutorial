@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/taketaku/W/samples/hardhat-tutorial/contracts/Token.sol": {
-      "lastModificationDate": 1654760834723,
-      "contentHash": "89da0b977b317b7bbabd1b135142ac60",
+      "lastModificationDate": 1654764640136,
+      "contentHash": "5b71856bb1dff333e013c3506ac57953",
       "sourceName": "contracts/Token.sol",
       "solcConfig": {
         "version": "0.8.14",
